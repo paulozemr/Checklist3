@@ -1,0 +1,44 @@
+.container {
+    width: 50%;
+    margin: 20px auto 0px auto;
+    border-radius: 20px;
+    background-color: royalblue;
+    padding-bottom: 50px;
+}
+
+h1 {
+    padding-left: 30px;
+    font-style: italic;
+}
+
+body {
+    background-image: url('https://wallpaperaccess.com/full/13392.jpg');
+}
+
+ul li {
+    list-style-type: none;
+}
+
+input[type="text"] {
+    height: 40px;
+    width: 80%;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 30px;
+}
+
+button {
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding-left: 30px;
+}
+
+.removed {
+    color: gray;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
